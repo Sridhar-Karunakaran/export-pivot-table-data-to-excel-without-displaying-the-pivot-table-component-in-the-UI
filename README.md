@@ -267,8 +267,8 @@ EnableServerSideAggregation = true
 ## 📚 Resources
 
 - [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/)
-- [Syncfusion Pivot Engine Guide](https://www.syncfusion.com/products/net/pivot-table)
-- [Syncfusion Excel Export Guide](https://www.syncfusion.com/products/net/xlsio)
+- [Syncfusion Pivot Engine Guide](https://ej2.syncfusion.com/aspnetcore/documentation/pivot-table/server-side-pivot-engine)
+- [Syncfusion Excel Export Guide](https://ej2.syncfusion.com/aspnetcore/documentation/pivot-table/excel-export)
 - [MDN Web Documentation](https://developer.mozilla.org/)
 
 ## 🤝 Contributing
@@ -282,7 +282,7 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-This project is provided for educational and commercial use.
+This project is licensed under the **Syncfusion Community License**. See [Syncfusion License](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf) for details.
 
 ## 🆘 Support & Issues
 
