@@ -1,6 +1,5 @@
 # 📊 Export Pivot Table Data to Excel Without UI Component Display
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-7.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91.svg)](https://visualstudio.microsoft.com/)
 [![Syncfusion](https://img.shields.io/badge/Syncfusion-Pivot%20Engine-FF6B35.svg)](https://www.syncfusion.com/)
