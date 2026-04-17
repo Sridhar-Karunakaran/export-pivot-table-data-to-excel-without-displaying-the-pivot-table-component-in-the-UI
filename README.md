@@ -289,5 +289,3 @@ For questions, issues, or suggestions:
 - 📧 Open a GitHub issue with detailed reproduction steps
 - 💬 Review the Troubleshooting section above
 - 🔍 Check existing documentation and resource links
-
----
